@@ -1,0 +1,8 @@
+name: SpawnPlus
+version: '2.0'
+main: me.distruzionee.spawnplus.Main
+api-version: 1.19
+commands:
+  setSpawn:
+    description: A index commands
+    usage: /<command>
